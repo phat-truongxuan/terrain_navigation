@@ -1,6 +1,6 @@
 ## Overview
 
-This project implements a **rough-terrain path planner for autonomous ground robots** using the **A* search algorithm**. The planner generates collision-free paths while taking terrain characteristics into account, enabling navigation over uneven and challenging terrain.
+This project implements a **rough-terrain path planner for autonomous ground robots** using the **A star search algorithm (D star lite is also available)**. The planner generates collision-free paths while taking terrain characteristics into account, enabling navigation over uneven and challenging terrain.
 
 The project is developed with **ROS 2 Humble** and uses **RViz2** for real-time visualization of the terrain, planning map, and generated path.
 
