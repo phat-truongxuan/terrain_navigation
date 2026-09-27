@@ -1,0 +1,10 @@
+int16 start_id_x
+int16 start_id_y
+int16 goal_id_x
+int16 goal_id_y
+float64 omega
+float64 beta
+float64 gamma
+float64 mu
+int16 color
+bool follow_path
