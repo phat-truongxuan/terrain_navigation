@@ -4,6 +4,7 @@ This project implements a **rough-terrain path planner for autonomous ground rob
 
 The project is developed with **ROS 2 Humble** and uses **RViz2** for real-time visualization of the terrain, planning map, and generated path.
 
+[Tutorial Video](https://www.youtube.com/watch?v=KRctEvpNfLI)
 ### Features
 
 * **Rough-terrain path planning** for autonomous ground robots
