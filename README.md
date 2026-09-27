@@ -7,7 +7,7 @@ The project is developed with **ROS 2 Humble** and uses **RViz2** for real-time 
 ### Features
 
 * **Rough-terrain path planning** for autonomous ground robots
-* **A* path planning algorithm**
+* **A star path planning algorithm**
 * Terrain-aware navigation
 * **ROS 2 Humble** integration
 * **RViz2 visualization** of the planning environment and generated paths
