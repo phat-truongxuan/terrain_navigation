@@ -1,4 +1,17 @@
-# terrain navigation
+## Overview
+
+This project implements a **rough-terrain path planner for autonomous ground robots** using the **A* search algorithm**. The planner generates collision-free paths while taking terrain characteristics into account, enabling navigation over uneven and challenging terrain.
+
+The project is developed with **ROS 2 Humble** and uses **RViz2** for real-time visualization of the terrain, planning map, and generated path.
+
+### Features
+
+* **Rough-terrain path planning** for autonomous ground robots
+* **A* path planning algorithm**
+* Terrain-aware navigation
+* **ROS 2 Humble** integration
+* **RViz2 visualization** of the planning environment and generated paths
+* Configurable planning parameters through YAML
 
 on docker:
 
