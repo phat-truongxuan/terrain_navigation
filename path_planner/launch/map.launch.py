@@ -13,7 +13,7 @@ def generate_launch_description():
             namespace='',
             executable='rviz2',
             name='rviz2',
-            arguments=['-d', [os.path.join(os.getcwd(), "src/path_planner", 'rviz', 'map.rviz')]]
+            arguments=['-d', [os.path.join(os.getcwd(), "src/path_planner", 'rviz', 'view.rviz')]]
         ),
 
         Node(package = "tf2_ros", 
